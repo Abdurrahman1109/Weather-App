@@ -1,4 +1,4 @@
-I have designed weather-app in which you can easily see the weather of differrent location in the world. 
+.I have designed weather-app in which you can easily see the weather of differrent location in the world. 
 I have used third party Api for weather data and technology used is nodejs, expressjs and for front end it is all about javascript and handlebars (hbs)
 
 If you want to run this project :
